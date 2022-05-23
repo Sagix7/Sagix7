@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagix7
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and SMLM data
 - 🌱 I’m currently learning probability distributions
 
 <!---
